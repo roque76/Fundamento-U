@@ -35,3 +35,4 @@ for val_rep in range(2):
         print('La nota definitiva por porcentaje de:', nom, 'Es de:', n_def_porc, 'y esta aprobada.')
     else:
         print('La nota definitiva por porcentaje de:', nom, 'Es de:', n_def_porc, 'y esta reprobada.')
+        

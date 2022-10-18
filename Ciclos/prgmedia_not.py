@@ -6,6 +6,7 @@ Fecha:07/09/2022
 Versión: 1.0
 '''
 
+
 acum1 = 0
 num_alum = int(input('Ingrese la cantidad de alumnos a calificar: '))
 n_mayor = 0

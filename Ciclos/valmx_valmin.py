@@ -12,7 +12,6 @@ num1 = int(input('Ingresar valor minimo: '))
 val_max = num1
 val_min = num1
 
-
 for i in range(10):
   print('Ingresar valor número', i)
   num = int(input('Ingresar el valor del número: '))
