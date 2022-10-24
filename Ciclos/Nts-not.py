@@ -1,6 +1,7 @@
 est= int(input('Ingresar cantidad de estudiantes: '))
 
 while (i < est):
+    
     i=0
     n_est= str(input('Ingresar nombre de estudiante: '))
 

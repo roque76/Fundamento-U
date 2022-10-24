@@ -27,5 +27,6 @@ for x in range(num_alum):
     n_mayor = n
  
 m=acum1/num_alum
+
 print('La media de notas es de: ', m)
 print(acum2, 'Estudiantes ganaron la materia')

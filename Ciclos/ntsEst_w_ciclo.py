@@ -17,6 +17,7 @@ Versión: 1.0
 c_est=int(input('Ingresar cantidad de estudiantes: '))
 
 for val_rep in range (c_est):
+    
     c_grp=0
     print('Estudiante #', val_rep)
     nom= str(input('INGRESE EL NOMBRE DEL ESTUDIANTE: . . .'))

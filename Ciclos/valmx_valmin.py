@@ -17,6 +17,7 @@ for i in range(10):
   num = int(input('Ingresar el valor del número: '))
 
   if num > val_max:
+    
     print('Nuevo valor maximo ingresado')
     val_max = num
   if num < val_min:

@@ -24,6 +24,7 @@ for i in range(20):
 
 
         if pes_sac<0:
+            
             print('Cargar la saca #', i)
             carg = carg + pes_sac
     if i<20:
